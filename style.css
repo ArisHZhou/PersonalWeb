@@ -4,10 +4,6 @@
             padding: 0;
             line-height: 1.6;
             color: #333;
-            background-image:url('background.png');
-            background-attachment:fixed;
-            background-repeat: no-repeat;
-            background-size: cover;
         }
         .container {
             max-width: 800px;
